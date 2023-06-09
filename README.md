@@ -1,4 +1,4 @@
-# keep-alive-script
+# Keep Alive Script
 Keep your screen alive.
 I've not been able to fully test this, so please let me know if you encounter any issues.
 
